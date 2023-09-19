@@ -1,0 +1,22 @@
+{
+  "name": "profile",
+  "version": "1.0.0",
+  "description": "profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prakashreddy000/profile.git"
+  },
+  "keywords": [
+    "profile"
+  ],
+  "author": "prakash reddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prakashreddy000/profile/issues"
+  },
+  "homepage": "https://github.com/Prakashreddy000/profile#readme"
+}
